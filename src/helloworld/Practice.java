@@ -9,5 +9,5 @@ package helloworld;
  * @author ophirneymour
  */
 public class Practice {
-    
+    System.out.println("Practice Class");
 }
